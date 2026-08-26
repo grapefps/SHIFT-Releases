@@ -1,0 +1,7 @@
+{
+  "version": "2.0.1",
+  "installerUrl": "https://example.com/SHIFT-Setup-2.0.1.exe",
+  "sha256": "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef",
+  "notes": "Test update for S.H.I.F.T live updater.",
+  "publishedAt": "2026-08-26T22:00:00Z"
+}
