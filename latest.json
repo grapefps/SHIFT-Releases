@@ -1,7 +1,7 @@
 {
-  "version": "2.0.1",
-  "notes": "S.H.I.F.T 2.0.1 Live Updater test release.",
-  "publishedAt": "2026-08-26",
-  "installerUrl": "https://github.com/grapefps/SHIFT-Releases/releases/download/v2.0.1/SHIFT-Setup-2.0.1.exe",
-  "sha256": "91b9c346e4ab5d97d9e232bd02ac5432db1481b1569fbda328845c383c7cc143"
+  "version": "6.0.0",
+  "notes": "S.H.I.F.T 6.0 — Core Reliability & Self-Recovery",
+  "publishedAt": "2026-09-14",
+  "installerUrl": "https://github.com/grapefps/SHIFT-Releases/releases/download/v6.0.0/SHIFT-Setup-6.0.0.exe",
+  "sha256": "THE_REAL_SHA256_FROM_THE_BUILDER"
 }
