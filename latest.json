@@ -1,7 +1,7 @@
 {
-  "version": "6.0.0",
-  "notes": "S.H.I.F.T 6.0 — Core Reliability & Self-Recovery",
+  "version": "7.0.0",
+  "notes": "S.H.I.F.T 7.0",
   "publishedAt": "2026-09-14",
-  "installerUrl": "https://github.com/grapefps/SHIFT-Releases/releases/download/v6.0.0/SHIFT-Setup-6.0.0.exe",
-  "sha256": "257EB13683EB00882C3B04939AE17FD1D9A93A3BB5CF0CE24220AB665C7A4706"
+  "installerUrl": "https://github.com/grapefps/SHIFT-Releases/releases/download/v7.0.0/SHIFT-Setup-7.0.0.exe",
+  "sha256": "8504C0C4D5EBD553BF33DAAE5E677137539816E2FBDDDCCE40CDE59A6134B897"
 }
