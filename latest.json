@@ -1,7 +1,7 @@
 {
-  "version": "10.0.0",
-  "notes": "S.H.I.F.T 10.0 FINAL BUILD",
-  "publishedAt": "2026-09-16",
-  "installerUrl": "https://github.com/grapefps/SHIFT-Releases/releases/download/v10.0.0/SHIFT-Setup-10.0.0.exe",
-  "sha256": "1542B7A6C604EDBB5B803DD99A613A4B8C032D0F03B92FA8EEF86AEED1046512"
+  "version": "12.0.0",
+  "notes": "S.H.I.F.T 12.0 FINAL PUBLIC RELEASE",
+  "publishedAt": "2026-09-19",
+  "installerUrl": "https://github.com/grapefps/SHIFT-Releases/releases/download/v12.0.0/SHIFT-Setup-12.0.0.exe",
+  "sha256": "85282A382E330D2DD543EB39DA7ECCEA8C2248BDC521209716AFD567BD7CC7F8"
 }
